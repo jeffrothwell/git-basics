@@ -1,1 +1,2 @@
 Hello team rosie!
+Working through git fundamentals!
